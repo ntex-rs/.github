@@ -7,5 +7,3 @@ MQTT, AMQP and gRPC built on top.
 
 - [Framework guide](https://docs.ntex.rs/index.html)
 - [API documentation](https://docs.ntex.rs/api/ntex/index.html)
-- [Examples](https://github.com/ntex-rs/examples)
-- [Discord](https://discord.gg/4GtaeP5Uqu)
